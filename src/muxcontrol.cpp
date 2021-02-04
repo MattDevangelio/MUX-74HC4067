@@ -2,7 +2,7 @@
  * Filename: muxcontrol.cpp
  * Author: Mattia Devangelio <mattdev6@gmail.com>
  * Description: Control the MUX 74HC4067 Channel selection.
- * License: Copyright (c) 2020, The library is licensed under the MIT license.
+ * License: Copyright (c) 2021, The library is licensed under the MIT license.
 */
 
 #include "MUX.h"
