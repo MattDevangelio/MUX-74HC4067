@@ -1,7 +1,7 @@
 /* 
  * Filename: MUX.h
  * Author: Mattia Devangelio <mattdev6@gmail.com>
- * Description: File header. 
+ * Description: Header file. 
  * License: Copyright (c) 2020, The library is licensed under the MIT license.
 */
 
