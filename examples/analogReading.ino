@@ -17,7 +17,7 @@ MUX mux(4, 12, 13, 14, 15); //set the Number of control pins and the digital pin
 
 int N=pow(2, mux.Npins); //Number of selected channels
 
-// The number of signals to be read simultaneosly is between 0 and N.
+//The number of signals to be read simultaneosly is between 0 and N.
 
 const int inpin=A0; //set the analog input pin
 
