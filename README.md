@@ -11,4 +11,4 @@ The routing of common signal to independent I/O is set by digitally controlling 
 - S2
 - S3
 
-The reported pic shows the SparkFun Analog/Digital MUX Breakout used for all the performed Multiplexing/Demultiplexing tests.
+The reported picture shows the SparkFun Analog/Digital MUX Breakout used for all the performed Multiplexing/Demultiplexing tests.
