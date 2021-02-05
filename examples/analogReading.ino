@@ -3,6 +3,8 @@
 // Board and one Channel pin of the MUX. The supply voltage of 3.3V
 // is demultiplexed by the SIG pin to each Channel pin of the MUX.
 
+// (Both analog and digital pins refer to ESP32 Boards)
+
 #include "MUX.h"
 
 MUX mux(4, 12, 13, 14, 15); //set the Number of control pins and the digital pins
