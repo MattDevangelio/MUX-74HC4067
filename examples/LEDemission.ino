@@ -9,6 +9,8 @@
 // In the used configuration, a number N of LEDs are connected 
 // to N channels of the MUX to provide evidence of the performed channel selection.
 
+// (The digital pins refer to ESP32 Boards)
+
 #include "MUX.h"
 
 MUX mux(4, 12, 13, 14, 15); //set the Number of control pins and the digital pins
