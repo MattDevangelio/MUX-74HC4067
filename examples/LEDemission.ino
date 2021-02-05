@@ -1,7 +1,7 @@
 /* 
  *  Filename: LEDemission.ino
  *  Author: Mattia Devangelio <mattdev6@gmail.com>
- *  Description: Example script of the MUX 74HC4067 control.
+ *  Description: Implementation example of the MUX 74HC4067 control.
  */
 
 // The script reports an easy example demostrating the working of 
