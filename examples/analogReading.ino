@@ -1,3 +1,9 @@
+/* 
+ *  Filename: analogReading.ino
+ *  Author: Mattia Devangelio <mattdev6@gmail.com>
+ *  Description: Example script of the MUX 74HC4067 control.
+ */
+
 // The present example performs multiacquisition of Analog signals 
 // from sensors connected between one analog input pin of the ESP32 
 // Board and one Channel pin of the MUX. The supply voltage of 3.3V
