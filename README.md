@@ -26,7 +26,7 @@ MUX mux(4, 12, 13, 14, 15);
 ````
 Arguments:
 ````cpp
-MUX::MUX(int N, int s0, int s1, int s2, int s3);
+MUX(int N, int s0, int s1, int s2, int s3);
 ````
 
 The reported picture shows the SparkFun Analog/Digital MUX Breakout used for all the performed Multiplexing/Demultiplexing tests.
