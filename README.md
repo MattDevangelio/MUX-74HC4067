@@ -13,6 +13,6 @@ The routing of common signal to independent I/O is set by digitally controlling 
 
 The reported picture shows the SparkFun Analog/Digital MUX Breakout used for all the performed Multiplexing/Demultiplexing tests.
 
-See the folder for an example of multiacquisition from analog sensors.
+See the folder for an example of analog signals multiacquisition.
 
-<a href="https://MattDevangelio.github.io/files/documents/MUX/Serial_multiacquisition.png"><img src="https://MattDevangelio.github.io/files/documents/MUX/Serial_multiacquisition.png" alt="Serial-pic" border="0" width="50%" height="50%"></a>
+<a href="https://MattDevangelio.github.io/files/documents/MUX/Serial_multiacquisition.png"><img src="https://MattDevangelio.github.io/files/documents/MUX/Serial_multiacquisition.png" alt="Serial-pic" border="0" width="80%" height="80%"></a>
