@@ -20,13 +20,21 @@ S3
 ````cpp
 MUX mux;
 ````
-### Function
+### Main function
 ````cpp
 void MUX(int N, int s0, int s1, int s2, int s3);
 ````
 Executed:
 ````cpp
 MUX mux(4, 12, 13, 14, 15);
+````
+### Selection function
+````cpp
+void selectChannel(int Channel);
+````
+Executed:
+````cpp
+mux.selectChannel(ch);
 ````
 
 The reported picture shows the SparkFun Analog/Digital MUX Breakout used for all the performed Multiplexing/Demultiplexing tests.
