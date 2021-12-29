@@ -41,5 +41,5 @@ The reported picture shows the SparkFun Analog/Digital MUX Breakout used for all
 
 See the example code related to the analog signals multiacquisiton [here](examples/analogReading.ino). The following image shows two voltage signals properly read from two sensors connected to the MUX Channels `C6` and `C12`.
 
-<a href="https://MattDevangelio.github.io/files/documents/MUX/Serial_multiacquisition.png"><img src="https://MattDevangelio.github.io/files/documents/MUX/Serial_multiacquisition.png" alt="Serial-pic" border="0" width="80%" height="80%"></a>
+<a href="https://github.com/MattDevangelio/MattDevangelio.github.io/blob/main/files/documents/MUX/Serial_multiacquisition.png"><img src="https://github.com/MattDevangelio/MattDevangelio.github.io/blob/main/files/documents/MUX/Serial_multiacquisition.png" alt="Serial-pic" border="0" width="80%" height="80%"></a>
 
